@@ -28,7 +28,7 @@ android {
 
 
 
-        applicationId "com.giflsd.dsadsad.hiddenparadise"
+        applicationId "com.dsadsad.hiddenparadise.giflsd"
         minSdk 21
         targetSdk 31
         versionCode 1

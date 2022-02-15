@@ -1,4 +1,4 @@
-package com.giflsd.dsadsad.hiddenparadise;
+package com.dsadsad.hiddenparadise.giflsd;
 
 import android.content.Context;
 

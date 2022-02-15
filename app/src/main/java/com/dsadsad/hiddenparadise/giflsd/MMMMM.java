@@ -1,4 +1,4 @@
-package com.giflsd.dsadsad.hiddenparadise;
+package com.dsadsad.hiddenparadise.giflsd;
 
 import androidx.annotation.RequiresApi;
 import androidx.appcompat.app.AppCompatActivity;
@@ -12,7 +12,7 @@ import android.view.Display;
 import android.view.View;
 import android.widget.ImageView;
 
-import com.giflsd.dsadsad.hiddenparadise.wew.HP;
+import com.dsadsad.hiddenparadise.giflsd.wew.HP;
 import com.onesignal.OneSignal;
 
 import java.util.ArrayList;

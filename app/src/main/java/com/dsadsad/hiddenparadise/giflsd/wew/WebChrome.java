@@ -1,4 +1,4 @@
-package com.giflsd.dsadsad.hiddenparadise.wew;
+package com.dsadsad.hiddenparadise.giflsd.wew;
 
 import android.content.Intent;
 import android.net.Uri;
@@ -9,7 +9,7 @@ import android.webkit.WebView;
 
 import androidx.annotation.RequiresApi;
 
-import com.giflsd.dsadsad.hiddenparadise.MMMMM;
+import com.dsadsad.hiddenparadise.giflsd.MMMMM;
 
 public class WebChrome extends WebChromeClient {
 

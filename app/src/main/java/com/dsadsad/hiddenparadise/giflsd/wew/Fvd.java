@@ -1,4 +1,4 @@
-package com.giflsd.dsadsad.hiddenparadise.wew;
+package com.dsadsad.hiddenparadise.giflsd.wew;
 
 import android.net.Uri;
 import android.os.Build;
@@ -8,7 +8,7 @@ import androidx.annotation.RequiresApi;
 import com.facebook.FacebookSdk;
 import com.facebook.appevents.AppEventsLogger;
 import com.facebook.applinks.AppLinkData;
-import com.giflsd.dsadsad.hiddenparadise.MMMMM;
+import com.dsadsad.hiddenparadise.giflsd.MMMMM;
 
 public class Fvd {
 

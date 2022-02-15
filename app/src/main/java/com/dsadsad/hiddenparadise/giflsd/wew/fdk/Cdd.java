@@ -1,10 +1,10 @@
-package com.giflsd.dsadsad.hiddenparadise.wew.fdk;
+package com.dsadsad.hiddenparadise.giflsd.wew.fdk;
 
 import android.os.Build;
 
 import androidx.annotation.RequiresApi;
 
-import com.giflsd.dsadsad.hiddenparadise.MMMMM;
+import com.dsadsad.hiddenparadise.giflsd.MMMMM;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

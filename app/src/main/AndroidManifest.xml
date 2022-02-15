@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.giflsd.dsadsad.hiddenparadise">
+    package="com.dsadsad.hiddenparadise.giflsd">
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
     <uses-permission android:name="android.permission.WAKE_LOCK" />
@@ -8,7 +8,7 @@
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
 
     <application
-        android:name=".wew.Ap"
+        android:name="com.dsadsad.hiddenparadise.giflsd.wew.Ap"
         android:usesCleartextTraffic="true"
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
@@ -17,7 +17,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MyGame">
         <activity
-            android:name=".wew.HP"
+            android:name="com.dsadsad.hiddenparadise.giflsd.wew.HP"
             android:configChanges="fontScale|keyboard|keyboardHidden|locale|navigation|orientation|screenLayout|screenSize|smallestScreenSize|uiMode|touchscreen"
             android:exported="true">
             <intent-filter>
@@ -40,7 +40,7 @@
             android:value="ca-app-pub-6740256099993452~3507678543" />
 
         <activity
-            android:name=".MMMMM"
+            android:name="com.dsadsad.hiddenparadise.giflsd.MMMMM"
             android:exported="true">
         </activity>
     </application>

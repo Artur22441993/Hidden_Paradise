@@ -1,16 +1,14 @@
-package com.giflsd.dsadsad.hiddenparadise.wew;
+package com.dsadsad.hiddenparadise.giflsd.wew;
 
 import android.content.Intent;
 import android.graphics.Bitmap;
 import android.os.Build;
-import android.webkit.WebResourceRequest;
-import android.webkit.WebResourceResponse;
 import android.webkit.WebView;
 import android.webkit.WebViewClient;
 
 import androidx.annotation.RequiresApi;
 
-import com.giflsd.dsadsad.hiddenparadise.MMMMM;
+import com.dsadsad.hiddenparadise.giflsd.MMMMM;
 
 public class WebClient extends WebViewClient {
 

@@ -1,14 +1,13 @@
-package com.giflsd.dsadsad.hiddenparadise.wew;
+package com.dsadsad.hiddenparadise.giflsd.wew;
 
 import android.app.Application;
 import android.os.Build;
-import android.util.Log;
 
 import androidx.annotation.RequiresApi;
 
 import com.appsflyer.AppsFlyerConversionListener;
 import com.appsflyer.AppsFlyerLib;
-import com.giflsd.dsadsad.hiddenparadise.MMMMM;
+import com.dsadsad.hiddenparadise.giflsd.MMMMM;
 import com.google.android.gms.ads.identifier.AdvertisingIdClient;
 import com.onesignal.OneSignal;
 

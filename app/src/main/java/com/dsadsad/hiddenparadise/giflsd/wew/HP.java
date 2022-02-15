@@ -1,4 +1,4 @@
-package com.giflsd.dsadsad.hiddenparadise.wew;
+package com.dsadsad.hiddenparadise.giflsd.wew;
 
 import android.app.Activity;
 import android.content.Intent;
@@ -14,9 +14,9 @@ import android.webkit.WebView;
 import androidx.annotation.Nullable;
 import androidx.annotation.RequiresApi;
 
-import com.giflsd.dsadsad.hiddenparadise.MMMMM;
-import com.giflsd.dsadsad.hiddenparadise.R;
-import com.giflsd.dsadsad.hiddenparadise.wew.fdk.Cdd;
+import com.dsadsad.hiddenparadise.giflsd.MMMMM;
+import com.dsadsad.hiddenparadise.giflsd.R;
+import com.dsadsad.hiddenparadise.giflsd.wew.fdk.Cdd;
 
 public class HP extends Activity {
     WebView wew;
